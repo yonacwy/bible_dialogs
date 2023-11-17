@@ -2,6 +2,7 @@
 :goto Index
 
 ===Index
+New Testament
 >Matthew
 >Mark
 >Luke
