@@ -1,0 +1,1806 @@
+===Start
+:goto Index
+
+===Index
+Apostle John
+
+>John
+>1 John
+>2 John
+>3 John
+>Revelation
+>END
+
+
+===John
+The Gospel of John
+>John 1 
+>John 2 
+>John 3
+>John 4
+>John 5
+>John 6
+>John 7
+>John 8
+>John 9
+>John 10
+>John 11
+>John 12
+>John 13
+>John 14
+>John 15
+>John 16
+>John 17
+>John 18
+>John 19
+>John 20
+>John 21
+>Index
+>End
+
+===1 John
+1st Epistle of John
+>1 John 1 
+>1 John 2 
+>1 John 3
+>1 John 4
+>1 John 5
+>Index
+>End
+
+===2 John
+2nd Epistle of John
+>2 John 1 
+>Index
+>End
+
+===3 John
+3rd Epistle of John
+>3 John 1 
+>Index
+>End
+
+===Revelation
+Book of Revelation
+>Revelation 1 
+>Revelation 2 
+>Revelation 3
+>Revelation 4
+>Revelation 5
+>Revelation 6
+>Revelation 7
+>Revelation 8
+>Revelation 9
+>Revelation 10
+>Revelation 11
+>Revelation 12
+>Revelation 13
+>Revelation 14
+>Revelation 15
+>Revelation 16
+>Revelation 17
+>Revelation 18
+>Revelation 19
+>Revelation 20
+>Revelation 21
+>Revelation 22
+>Index
+>End
+
+
+===John 1
+John 1:1	In the beginning was the Word, and the Word was with God, and the Word was God.
+John 1:2	The same was in the beginning with God.
+John 1:3	All things were made by him; and without him was not any thing made that was made.
+John 1:4	In him was life; and the life was the light of men.
+John 1:5	And the light shineth in darkness; and the darkness comprehended it not.
+John 1:6	There was a man sent from God, whose name was John.
+John 1:7	The same came for a witness, to bear witness of the Light, that all men through him might believe.
+John 1:8	He was not that Light, but was sent to bear witness of that Light.
+John 1:9	That was the true Light, which lighteth every man that cometh into the world.
+John 1:10	He was in the world, and the world was made by him, and the world knew him not.
+John 1:11	He came unto his own, and his own received him not.
+John 1:12	But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:
+John 1:13	Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+John 1:14	And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+John 1:15	John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.
+John 1:16	And of his fulness have all we received, and grace for grace.
+John 1:17	For the law was given by Moses, but grace and truth came by Jesus Christ.
+John 1:18	No man hath seen God at any time, the only begotten Son, which is in the bosom of the Father, he hath declared him.
+John 1:19	And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?
+John 1:20	And he confessed, and denied not; but confessed, I am not the Christ.
+John 1:21	And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.
+John 1:22	Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?
+John 1:23	He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.
+John 1:24	And they which were sent were of the Pharisees.
+John 1:25	And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?
+John 1:26	John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;
+John 1:27	He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.
+John 1:28	These things were done in Bethabara beyond Jordan, where John was baptizing.
+John 1:29	The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.
+John 1:30	This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.
+John 1:31	And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
+John 1:32	And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.
+John 1:33	And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.
+John 1:34	And I saw, and bare record that this is the Son of God.
+John 1:35	Again the next day after John stood, and two of his disciples;
+John 1:36	And looking upon Jesus as he walked, he saith, Behold the Lamb of God!
+John 1:37	And the two disciples heard him speak, and they followed Jesus.
+John 1:38	Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?
+John 1:39	He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.
+John 1:40	One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.
+John 1:41	He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.
+John 1:42	And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.
+John 1:43	The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.
+John 1:44	Now Philip was of Bethsaida, the city of Andrew and Peter.
+John 1:45	Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
+John 1:46	And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
+John 1:47	Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!
+John 1:48	Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.
+John 1:49	Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.
+John 1:50	Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.
+John 1:51	And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.
+
+>John
+>Index
+>End
+
+===John 2
+John 2:1	And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
+John 2:2	And both Jesus was called, and his disciples, to the marriage.
+John 2:3	And when they wanted wine, the mother of Jesus saith unto him, They have no wine.
+John 2:4	Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.
+John 2:5	His mother saith unto the servants, Whatsoever he saith unto you, do it.
+John 2:6	And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
+John 2:7	Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.
+John 2:8	And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it.
+John 2:9	When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
+John 2:10	And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now.
+John 2:11	This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
+John 2:12	After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.
+John 2:13	And the Jews' passover was at hand, and Jesus went up to Jerusalem.
+John 2:14	And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:
+John 2:15	And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
+John 2:16	And said unto them that sold doves, Take these things hence; make not my Father's house an house of merchandise.
+John 2:17	And his disciples remembered that it was written, The zeal of thine house hath eaten me up.
+John 2:18	Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?
+John 2:19	Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.
+John 2:20	Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?
+John 2:21	But he spake of the temple of his body.
+John 2:22	When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.
+John 2:23	Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.
+John 2:24	But Jesus did not commit himself unto them, because he knew all men,
+John 2:25	And needed not that any should testify of man: for he knew what was in man.
+
+>John
+>Index
+>End
+
+===John 3
+John 3:1	There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
+John 3:2	The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
+John 3:3	Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.
+John 3:4	Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?
+John 3:5	Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
+John 3:6	That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.
+John 3:7	Marvel not that I said unto thee, Ye must be born again.
+John 3:8	The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.
+John 3:9	Nicodemus answered and said unto him, How can these things be?
+John 3:10	Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?
+John 3:11	Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
+John 3:12	If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?
+John 3:13	And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.
+John 3:14	And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
+John 3:15	That whosoever believeth in him should not perish, but have eternal life.
+John 3:16	For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+John 3:17	For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
+John 3:18	He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.
+John 3:19	And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
+John 3:20	For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved.
+John 3:21	But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.
+John 3:22	After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
+John 3:23	And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.
+John 3:24	For John was not yet cast into prison.
+John 3:25	Then there arose a question between some of John's disciples and the Jews about purifying.
+John 3:26	And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.
+John 3:27	John answered and said, A man can receive nothing, except it be given him from heaven.
+John 3:28	Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
+John 3:29	He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled.
+John 3:30	He must increase, but I must decrease.
+John 3:31	He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.
+John 3:32	And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.
+John 3:33	He that hath received his testimony hath set to his seal that God is true.
+John 3:34	For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.
+John 3:35	The Father loveth the Son, and hath given all things into his hand.
+John 3:36	He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.
+
+>John
+>Index
+>End
+
+===John 4
+John 4:1	When therefore the LORD knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
+John 4:2	(Though Jesus himself baptized not, but his disciples,)
+John 4:3	He left Judaea, and departed again into Galilee.
+John 4:4	And he must needs go through Samaria.
+John 4:5	Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
+John 4:6	Now Jacob's well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
+John 4:7	There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
+John 4:8	(For his disciples were gone away unto the city to buy meat.)
+John 4:9	Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
+John 4:10	Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
+John 4:11	The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
+John 4:12	Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
+John 4:13	Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+John 4:14	But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
+John 4:15	The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw.
+John 4:16	Jesus saith unto her, Go, call thy husband, and come hither.
+John 4:17	The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:
+John 4:18	For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly.
+John 4:19	The woman saith unto him, Sir, I perceive that thou art a prophet.
+John 4:20	Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.
+John 4:21	Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.
+John 4:22	Ye worship ye know not what: we know what we worship: for salvation is of the Jews.
+John 4:23	But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.
+John 4:24	God is a Spirit: and they that worship him must worship him in spirit and in truth.
+John 4:25	The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.
+John 4:26	Jesus saith unto her, I that speak unto thee am he.
+John 4:27	And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?
+John 4:28	The woman then left her waterpot, and went her way into the city, and saith to the men,
+John 4:29	Come, see a man, which told me all things that ever I did: is not this the Christ?
+John 4:30	Then they went out of the city, and came unto him.
+John 4:31	In the mean while his disciples prayed him, saying, Master, eat.
+John 4:32	But he said unto them, I have meat to eat that ye know not of.
+John 4:33	Therefore said the disciples one to another, Hath any man brought him ought to eat?
+John 4:34	Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work.
+John 4:35	Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
+John 4:36	And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.
+John 4:37	And herein is that saying true, One soweth, and another reapeth.
+John 4:38	I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.
+John 4:39	And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.
+John 4:40	So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.
+John 4:41	And many more believed because of his own word;
+John 4:42	And said unto the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world.
+John 4:43	Now after two days he departed thence, and went into Galilee.
+John 4:44	For Jesus himself testified, that a prophet hath no honour in his own country.
+John 4:45	Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.
+John 4:46	So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
+John 4:47	When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.
+John 4:48	Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.
+John 4:49	The nobleman saith unto him, Sir, come down ere my child die.
+John 4:50	Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.
+John 4:51	And as he was now going down, his servants met him, and told him, saying, Thy son liveth.
+John 4:52	Then enquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him.
+John 4:53	So the father knew that it was at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.
+John 4:54	This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee.
+
+>John
+>Index
+>End
+
+===John 5
+John 5:1	After this there was a feast of the Jews; and Jesus went up to Jerusalem.
+John 5:2	Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches.
+John 5:3	In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.
+John 5:4	For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.
+John 5:5	And a certain man was there, which had an infirmity thirty and eight years.
+John 5:6	When Jesus saw him lie, and knew that he had been now a long time in that case, he saith unto him, Wilt thou be made whole?
+John 5:7	The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.
+John 5:8	Jesus saith unto him, Rise, take up thy bed, and walk.
+John 5:9	And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.
+John 5:10	The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry thy bed.
+John 5:11	He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.
+John 5:12	Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?
+John 5:13	And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in that place.
+John 5:14	Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee.
+John 5:15	The man departed, and told the Jews that it was Jesus, which had made him whole.
+John 5:16	And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.
+John 5:17	But Jesus answered them, My Father worketh hitherto, and I work.
+John 5:18	Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.
+John 5:19	Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.
+John 5:20	For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel.
+John 5:21	For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will.
+John 5:22	For the Father judgeth no man, but hath committed all judgment unto the Son:
+John 5:23	That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.
+John 5:24	Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
+John 5:25	Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.
+John 5:26	For as the Father hath life in himself; so hath he given to the Son to have life in himself;
+John 5:27	And hath given him authority to execute judgment also, because he is the Son of man.
+John 5:28	Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,
+John 5:29	And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.
+John 5:30	I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.
+John 5:31	If I bear witness of myself, my witness is not true.
+John 5:32	There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
+John 5:33	Ye sent unto John, and he bare witness unto the truth.
+John 5:34	But I receive not testimony from man: but these things I say, that ye might be saved.
+John 5:35	He was a burning and a shining light: and ye were willing for a season to rejoice in his light.
+John 5:36	But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.
+John 5:37	And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape.
+John 5:38	And ye have not his word abiding in you: for whom he hath sent, him ye believe not.
+John 5:39	Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
+John 5:40	And ye will not come to me, that ye might have life.
+John 5:41	I receive not honour from men.
+John 5:42	But I know you, that ye have not the love of God in you.
+John 5:43	I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive.
+John 5:44	How can ye believe, which receive honour one of another, and seek not the honour that cometh from God only?
+John 5:45	Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
+John 5:46	For had ye believed Moses, ye would have believed me; for he wrote of me.
+John 5:47	But if ye believe not his writings, how shall ye believe my words?
+
+>John
+>Index
+>End
+
+===John 6
+John 6:1	After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
+John 6:2	And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
+John 6:3	And Jesus went up into a mountain, and there he sat with his disciples.
+John 6:4	And the passover, a feast of the Jews, was nigh.
+John 6:5	When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?
+John 6:6	And this he said to prove him: for he himself knew what he would do.
+John 6:7	Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little.
+John 6:8	One of his disciples, Andrew, Simon Peter's brother, saith unto him,
+John 6:9	There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?
+John 6:10	And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand.
+John 6:11	And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.
+John 6:12	When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost.
+John 6:13	Therefore they gathered them together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten.
+John 6:14	Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.
+John 6:15	When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.
+John 6:16	And when even was now come, his disciples went down unto the sea,
+John 6:17	And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.
+John 6:18	And the sea arose by reason of a great wind that blew.
+John 6:19	So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
+John 6:20	But he saith unto them, It is I; be not afraid.
+John 6:21	Then they willingly received him into the ship: and immediately the ship was at the land whither they went.
+John 6:22	The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
+John 6:23	(Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)
+John 6:24	When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus.
+John 6:25	And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?
+John 6:26	Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.
+John 6:27	Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
+John 6:28	Then said they unto him, What shall we do, that we might work the works of God?
+John 6:29	Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent.
+John 6:30	They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?
+John 6:31	Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.
+John 6:32	Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven.
+John 6:33	For the bread of God is he which cometh down from heaven, and giveth life unto the world.
+John 6:34	Then said they unto him, Lord, evermore give us this bread.
+John 6:35	And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+John 6:36	But I said unto you, That ye also have seen me, and believe not.
+John 6:37	All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
+John 6:38	For I came down from heaven, not to do mine own will, but the will of him that sent me.
+John 6:39	And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
+John 6:40	And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
+John 6:41	The Jews then murmured at him, because he said, I am the bread which came down from heaven.
+John 6:42	And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?
+John 6:43	Jesus therefore answered and said unto them, Murmur not among yourselves.
+John 6:44	No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.
+John 6:45	It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.
+John 6:46	Not that any man hath seen the Father, save he which is of God, he hath seen the Father.
+John 6:47	Verily, verily, I say unto you, He that believeth on me hath everlasting life.
+John 6:48	I am that bread of life.
+John 6:49	Your fathers did eat manna in the wilderness, and are dead.
+John 6:50	This is the bread which cometh down from heaven, that a man may eat thereof, and not die.
+John 6:51	I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
+John 6:52	The Jews therefore strove among themselves, saying, How can this man give us his flesh to eat?
+John 6:53	Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.
+John 6:54	Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.
+John 6:55	For my flesh is meat indeed, and my blood is drink indeed.
+John 6:56	He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.
+John 6:57	As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.
+John 6:58	This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever.
+John 6:59	These things said he in the synagogue, as he taught in Capernaum.
+John 6:60	Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?
+John 6:61	When Jesus knew in himself that his disciples murmured at it, he said unto them, Doth this offend you?
+John 6:62	What and if ye shall see the Son of man ascend up where he was before?
+John 6:63	It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+John 6:64	But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
+John 6:65	And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.
+John 6:66	From that time many of his disciples went back, and walked no more with him.
+John 6:67	Then said Jesus unto the twelve, Will ye also go away?
+John 6:68	Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
+John 6:69	And we believe and are sure that thou art that Christ, the Son of the living God.
+John 6:70	Jesus answered them, Have not I chosen you twelve, and one of you is a devil?
+John 6:71	He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve.
+
+>John
+>Index
+>End
+
+===John 7
+John 7:1	After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.
+John 7:2	Now the Jew's feast of tabernacles was at hand.
+John 7:3	His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest.
+John 7:4	For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.
+John 7:5	For neither did his brethren believe in him.
+John 7:6	Then Jesus said unto them, My time is not yet come: but your time is alway ready.
+John 7:7	The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.
+John 7:8	Go ye up unto this feast: I go not up yet unto this feast: for my time is not yet full come.
+John 7:9	When he had said these words unto them, he abode still in Galilee.
+John 7:10	But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.
+John 7:11	Then the Jews sought him at the feast, and said, Where is he?
+John 7:12	And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.
+John 7:13	Howbeit no man spake openly of him for fear of the Jews.
+John 7:14	Now about the midst of the feast Jesus went up into the temple, and taught.
+John 7:15	And the Jews marvelled, saying, How knoweth this man letters, having never learned?
+John 7:16	Jesus answered them, and said, My doctrine is not mine, but his that sent me.
+John 7:17	If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.
+John 7:18	He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.
+John 7:19	Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?
+John 7:20	The people answered and said, Thou hast a devil: who goeth about to kill thee?
+John 7:21	Jesus answered and said unto them, I have done one work, and ye all marvel.
+John 7:22	Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.
+John 7:23	If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?
+John 7:24	Judge not according to the appearance, but judge righteous judgment.
+John 7:25	Then said some of them of Jerusalem, Is not this he, whom they seek to kill?
+John 7:26	But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?
+John 7:27	Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.
+John 7:28	Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.
+John 7:29	But I know him: for I am from him, and he hath sent me.
+John 7:30	Then they sought to take him: but no man laid hands on him, because his hour was not yet come.
+John 7:31	And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?
+John 7:32	The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.
+John 7:33	Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me.
+John 7:34	Ye shall seek me, and shall not find me: and where I am, thither ye cannot come.
+John 7:35	Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
+John 7:36	What manner of saying is this that he said, Ye shall seek me, and shall not find me: and where I am, thither ye cannot come?
+John 7:37	In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.
+John 7:38	He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
+John 7:39	(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)
+John 7:40	Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.
+John 7:41	Others said, This is the Christ. But some said, Shall Christ come out of Galilee?
+John 7:42	Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?
+John 7:43	So there was a division among the people because of him.
+John 7:44	And some of them would have taken him; but no man laid hands on him.
+John 7:45	Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?
+John 7:46	The officers answered, Never man spake like this man.
+John 7:47	Then answered them the Pharisees, Are ye also deceived?
+John 7:48	Have any of the rulers or of the Pharisees believed on him?
+John 7:49	But this people who knoweth not the law are cursed.
+John 7:50	Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)
+John 7:51	Doth our law judge any man, before it hear him, and know what he doeth?
+John 7:52	They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.
+John 7:53	And every man went unto his own house.
+
+>John
+>Index
+>End
+
+===John 8
+John 8:1	Jesus went unto the mount of Olives.
+John 8:2	And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.
+John 8:3	And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,
+John 8:4	They say unto him, Master, this woman was taken in adultery, in the very act.
+John 8:5	Now Moses in the law commanded us, that such should be stoned: but what sayest thou?
+John 8:6	This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not.
+John 8:7	So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
+John 8:8	And again he stooped down, and wrote on the ground.
+John 8:9	And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even unto the last: and Jesus was left alone, and the woman standing in the midst.
+John 8:10	When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee?
+John 8:11	She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more.
+John 8:12	Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
+John 8:13	The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true.
+John 8:14	Jesus answered and said unto them, Though I bear record of myself, yet my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go.
+John 8:15	Ye judge after the flesh; I judge no man.
+John 8:16	And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.
+John 8:17	It is also written in your law, that the testimony of two men is true.
+John 8:18	I am one that bear witness of myself, and the Father that sent me beareth witness of me.
+John 8:19	Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.
+John 8:20	These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.
+John 8:21	Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.
+John 8:22	Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.
+John 8:23	And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world.
+John 8:24	I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
+John 8:25	Then said they unto him, Who art thou? And Jesus saith unto them, Even the same that I said unto you from the beginning.
+John 8:26	I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.
+John 8:27	They understood not that he spake to them of the Father.
+John 8:28	Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things.
+John 8:29	And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.
+John 8:30	As he spake these words, many believed on him.
+John 8:31	Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;
+John 8:32	And ye shall know the truth, and the truth shall make you free.
+John 8:33	They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?
+John 8:34	Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.
+John 8:35	And the servant abideth not in the house for ever: but the Son abideth ever.
+John 8:36	If the Son therefore shall make you free, ye shall be free indeed.
+John 8:37	I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you.
+John 8:38	I speak that which I have seen with my Father: and ye do that which ye have seen with your father.
+John 8:39	They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham's children, ye would do the works of Abraham.
+John 8:40	But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.
+John 8:41	Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, even God.
+John 8:42	Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.
+John 8:43	Why do ye not understand my speech? even because ye cannot hear my word.
+John 8:44	Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
+John 8:45	And because I tell you the truth, ye believe me not.
+John 8:46	Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?
+John 8:47	He that is of God heareth God's words: ye therefore hear them not, because ye are not of God.
+John 8:48	Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?
+John 8:49	Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me.
+John 8:50	And I seek not mine own glory: there is one that seeketh and judgeth.
+John 8:51	Verily, verily, I say unto you, If a man keep my saying, he shall never see death.
+John 8:52	Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.
+John 8:53	Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?
+John 8:54	Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:
+John 8:55	Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.
+John 8:56	Your father Abraham rejoiced to see my day: and he saw it, and was glad.
+John 8:57	Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?
+John 8:58	Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
+John 8:59	Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.
+
+>John
+>Index
+>End
+
+===John 9
+John 9:1	And as Jesus passed by, he saw a man which was blind from his birth.
+John 9:2	And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?
+John 9:3	Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
+John 9:4	I must work the works of him that sent me, while it is day: the night cometh, when no man can work.
+John 9:5	As long as I am in the world, I am the light of the world.
+John 9:6	When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,
+John 9:7	And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.
+John 9:8	The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?
+John 9:9	Some said, This is he: others said, He is like him: but he said, I am he.
+John 9:10	Therefore said they unto him, How were thine eyes opened?
+John 9:11	He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.
+John 9:12	Then said they unto him, Where is he? He said, I know not.
+John 9:13	They brought to the Pharisees him that aforetime was blind.
+John 9:14	And it was the sabbath day when Jesus made the clay, and opened his eyes.
+John 9:15	Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see.
+John 9:16	Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.
+John 9:17	They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.
+John 9:18	But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.
+John 9:19	And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?
+John 9:20	His parents answered them and said, We know that this is our son, and that he was born blind:
+John 9:21	But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself.
+John 9:22	These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.
+John 9:23	Therefore said his parents, He is of age; ask him.
+John 9:24	Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner.
+John 9:25	He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.
+John 9:26	Then said they to him again, What did he to thee? how opened he thine eyes?
+John 9:27	He answered them, I have told you already, and ye did not hear: wherefore would ye hear it again? will ye also be his disciples?
+John 9:28	Then they reviled him, and said, Thou art his disciple; but we are Moses' disciples.
+John 9:29	We know that God spake unto Moses: as for this fellow, we know not from whence he is.
+John 9:30	The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes.
+John 9:31	Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.
+John 9:32	Since the world began was it not heard that any man opened the eyes of one that was born blind.
+John 9:33	If this man were not of God, he could do nothing.
+John 9:34	They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.
+John 9:35	Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?
+John 9:36	He answered and said, Who is he, Lord, that I might believe on him?
+John 9:37	And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.
+John 9:38	And he said, Lord, I believe. And he worshipped him.
+John 9:39	And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
+John 9:40	And some of the Pharisees which were with him heard these words, and said unto him, Are we blind also?
+John 9:41	Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.
+
+>John
+>Index
+>End
+
+===John 10
+John 10:1	Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
+John 10:2	But he that entereth in by the door is the shepherd of the sheep.
+John 10:3	To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out.
+John 10:4	And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.
+John 10:5	And a stranger will they not follow, but will flee from him: for they know not the voice of strangers.
+John 10:6	This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.
+John 10:7	Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.
+John 10:8	All that ever came before me are thieves and robbers: but the sheep did not hear them.
+John 10:9	I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
+John 10:10	The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
+John 10:11	I am the good shepherd: the good shepherd giveth his life for the sheep.
+John 10:12	But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.
+John 10:13	The hireling fleeth, because he is an hireling, and careth not for the sheep.
+John 10:14	I am the good shepherd, and know my sheep, and am known of mine.
+John 10:15	As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
+John 10:16	And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
+John 10:17	Therefore doth my Father love me, because I lay down my life, that I might take it again.
+John 10:18	No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.
+John 10:19	There was a division therefore again among the Jews for these sayings.
+John 10:20	And many of them said, He hath a devil, and is mad; why hear ye him?
+John 10:21	Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?
+John 10:22	And it was at Jerusalem the feast of the dedication, and it was winter.
+John 10:23	And Jesus walked in the temple in Solomon's porch.
+John 10:24	Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
+John 10:25	Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me.
+John 10:26	But ye believe not, because ye are not of my sheep, as I said unto you.
+John 10:27	My sheep hear my voice, and I know them, and they follow me:
+John 10:28	And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.
+John 10:29	My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand.
+John 10:30	I and my Father are one.
+John 10:31	Then the Jews took up stones again to stone him.
+John 10:32	Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?
+John 10:33	The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.
+John 10:34	Jesus answered them, Is it not written in your law, I said, Ye are gods?
+John 10:35	If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
+John 10:36	Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?
+John 10:37	If I do not the works of my Father, believe me not.
+John 10:38	But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.
+John 10:39	Therefore they sought again to take him: but he escaped out of their hand,
+John 10:40	And went away again beyond Jordan into the place where John at first baptized; and there he abode.
+John 10:41	And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.
+John 10:42	And many believed on him there.
+
+>John
+>Index
+>End
+
+===John 11
+John 11:1	Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.
+John 11:2	(It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
+John 11:3	Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.
+John 11:4	When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.
+John 11:5	Now Jesus loved Martha, and her sister, and Lazarus.
+John 11:6	When he had heard therefore that he was sick, he abode two days still in the same place where he was.
+John 11:7	Then after that saith he to his disciples, Let us go into Judaea again.
+John 11:8	His disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?
+John 11:9	Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.
+John 11:10	But if a man walk in the night, he stumbleth, because there is no light in him.
+John 11:11	These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.
+John 11:12	Then said his disciples, Lord, if he sleep, he shall do well.
+John 11:13	Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
+John 11:14	Then said Jesus unto them plainly, Lazarus is dead.
+John 11:15	And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
+John 11:16	Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.
+John 11:17	Then when Jesus came, he found that he had lain in the grave four days already.
+John 11:18	Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:
+John 11:19	And many of the Jews came to Martha and Mary, to comfort them concerning their brother.
+John 11:20	Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.
+John 11:21	Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.
+John 11:22	But I know, that even now, whatsoever thou wilt ask of God, God will give it thee.
+John 11:23	Jesus saith unto her, Thy brother shall rise again.
+John 11:24	Martha saith unto him, I know that he shall rise again in the resurrection at the last day.
+John 11:25	Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
+John 11:26	And whosoever liveth and believeth in me shall never die. Believest thou this?
+John 11:27	She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.
+John 11:28	And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.
+John 11:29	As soon as she heard that, she arose quickly, and came unto him.
+John 11:30	Now Jesus was not yet come into the town, but was in that place where Martha met him.
+John 11:31	The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.
+John 11:32	Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.
+John 11:33	When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled.
+John 11:34	And said, Where have ye laid him? They said unto him, Lord, come and see.
+John 11:35	Jesus wept.
+John 11:36	Then said the Jews, Behold how he loved him!
+John 11:37	And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
+John 11:38	Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.
+John 11:39	Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days.
+John 11:40	Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?
+John 11:41	Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.
+John 11:42	And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.
+John 11:43	And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.
+John 11:44	And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.
+John 11:45	Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.
+John 11:46	But some of them went their ways to the Pharisees, and told them what things Jesus had done.
+John 11:47	Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
+John 11:48	If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
+John 11:49	And one of them, named Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
+John 11:50	Nor consider that it is expedient for us, that one man should die for the people, and that the whole nation perish not.
+John 11:51	And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
+John 11:52	And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
+John 11:53	Then from that day forth they took counsel together for to put him to death.
+John 11:54	Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.
+John 11:55	And the Jews' passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.
+John 11:56	Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?
+John 11:57	Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him.
+
+>John
+>Index
+>End
+
+===John 12
+John 12:1	Then Jesus six days before the passover came to Bethany, where Lazarus was, which had been dead, whom he raised from the dead.
+John 12:2	There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him.
+John 12:3	Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment.
+John 12:4	Then saith one of his disciples, Judas Iscariot, Simon's son, which should betray him,
+John 12:5	Why was not this ointment sold for three hundred pence, and given to the poor?
+John 12:6	This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.
+John 12:7	Then said Jesus, Let her alone: against the day of my burying hath she kept this.
+John 12:8	For the poor always ye have with you; but me ye have not always.
+John 12:9	Much people of the Jews therefore knew that he was there: and they came not for Jesus' sake only, but that they might see Lazarus also, whom he had raised from the dead.
+John 12:10	But the chief priests consulted that they might put Lazarus also to death;
+John 12:11	Because that by reason of him many of the Jews went away, and believed on Jesus.
+John 12:12	On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,
+John 12:13	Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord.
+John 12:14	And Jesus, when he had found a young ass, sat thereon; as it is written,
+John 12:15	Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass's colt.
+John 12:16	These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and that they had done these things unto him.
+John 12:17	The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record.
+John 12:18	For this cause the people also met him, for that they heard that he had done this miracle.
+John 12:19	The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.
+John 12:20	And there were certain Greeks among them that came up to worship at the feast:
+John 12:21	The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus.
+John 12:22	Philip cometh and telleth Andrew: and again Andrew and Philip tell Jesus.
+John 12:23	And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.
+John 12:24	Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
+John 12:25	He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal.
+John 12:26	If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.
+John 12:27	Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.
+John 12:28	Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again.
+John 12:29	The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him.
+John 12:30	Jesus answered and said, This voice came not because of me, but for your sakes.
+John 12:31	Now is the judgment of this world: now shall the prince of this world be cast out.
+John 12:32	And I, if I be lifted up from the earth, will draw all men unto me.
+John 12:33	This he said, signifying what death he should die.
+John 12:34	The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest thou, The Son of man must be lifted up? who is this Son of man?
+John 12:35	Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth.
+John 12:36	While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them.
+John 12:37	But though he had done so many miracles before them, yet they believed not on him:
+John 12:38	That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?
+John 12:39	Therefore they could not believe, because that Esaias said again,
+John 12:40	He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.
+John 12:41	These things said Esaias, when he saw his glory, and spake of him.
+John 12:42	Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue:
+John 12:43	For they loved the praise of men more than the praise of God.
+John 12:44	Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.
+John 12:45	And he that seeth me seeth him that sent me.
+John 12:46	I am come a light into the world, that whosoever believeth on me should not abide in darkness.
+John 12:47	And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
+John 12:48	He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
+John 12:49	For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.
+John 12:50	And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.
+
+>John
+>Index
+>End
+
+===John 13
+John 13:1	Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.
+John 13:2	And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's son, to betray him;
+John 13:3	Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;
+John 13:4	He riseth from supper, and laid aside his garments; and took a towel, and girded himself.
+John 13:5	After that he poureth water into a bason, and began to wash the disciples' feet, and to wipe them with the towel wherewith he was girded.
+John 13:6	Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?
+John 13:7	Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.
+John 13:8	Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.
+John 13:9	Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head.
+John 13:10	Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all.
+John 13:11	For he knew who should betray him; therefore said he, Ye are not all clean.
+John 13:12	So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?
+John 13:13	Ye call me Master and Lord: and ye say well; for so I am.
+John 13:14	If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet.
+John 13:15	For I have given you an example, that ye should do as I have done to you.
+John 13:16	Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.
+John 13:17	If ye know these things, happy are ye if ye do them.
+John 13:18	I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
+John 13:19	Now I tell you before it come, that, when it is come to pass, ye may believe that I am he.
+John 13:20	Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
+John 13:21	When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.
+John 13:22	Then the disciples looked one on another, doubting of whom he spake.
+John 13:23	Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.
+John 13:24	Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.
+John 13:25	He then lying on Jesus' breast saith unto him, Lord, who is it?
+John 13:26	Jesus answered, He it is, to whom I shall give a sop, when I have dipped it. And when he had dipped the sop, he gave it to Judas Iscariot, the son of Simon.
+John 13:27	And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.
+John 13:28	Now no man at the table knew for what intent he spake this unto him.
+John 13:29	For some of them thought, because Judas had the bag, that Jesus had said unto him, Buy those things that we have need of against the feast; or, that he should give something to the poor.
+John 13:30	He then having received the sop went immediately out: and it was night.
+John 13:31	Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.
+John 13:32	If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.
+John 13:33	Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.
+John 13:34	A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.
+John 13:35	By this shall all men know that ye are my disciples, if ye have love one to another.
+John 13:36	Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.
+John 13:37	Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.
+John 13:38	Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.
+
+>John
+>Index
+>End
+
+===John 14
+John 14:1	Let not your heart be troubled: ye believe in God, believe also in me.
+John 14:2	In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.
+John 14:3	And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.
+John 14:4	And whither I go ye know, and the way ye know.
+John 14:5	Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?
+John 14:6	Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
+John 14:7	If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.
+John 14:8	Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
+John 14:9	Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
+John 14:10	Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
+John 14:11	Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake.
+John 14:12	Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
+John 14:13	And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.
+John 14:14	If ye shall ask any thing in my name, I will do it.
+John 14:15	If ye love me, keep my commandments.
+John 14:16	And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
+John 14:17	Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
+John 14:18	I will not leave you comfortless: I will come to you.
+John 14:19	Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
+John 14:20	At that day ye shall know that I am in my Father, and ye in me, and I in you.
+John 14:21	He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.
+John 14:22	Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?
+John 14:23	Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
+John 14:24	He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father's which sent me.
+John 14:25	These things have I spoken unto you, being yet present with you.
+John 14:26	But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
+John 14:27	Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
+John 14:28	Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.
+John 14:29	And now I have told you before it come to pass, that, when it is come to pass, ye might believe.
+John 14:30	Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.
+John 14:31	But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.
+
+>John
+>Index
+>End
+
+===John 15
+John 15:1	I am the true vine, and my Father is the husbandman.
+John 15:2	Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
+John 15:3	Now ye are clean through the word which I have spoken unto you.
+John 15:4	Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
+John 15:5	I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
+John 15:6	If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned.
+John 15:7	If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
+John 15:8	Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.
+John 15:9	As the Father hath loved me, so have I loved you: continue ye in my love.
+John 15:10	If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love.
+John 15:11	These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
+John 15:12	This is my commandment, That ye love one another, as I have loved you.
+John 15:13	Greater love hath no man than this, that a man lay down his life for his friends.
+John 15:14	Ye are my friends, if ye do whatsoever I command you.
+John 15:15	Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.
+John 15:16	Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.
+John 15:17	These things I command you, that ye love one another.
+John 15:18	If the world hate you, ye know that it hated me before it hated you.
+John 15:19	If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
+John 15:20	Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
+John 15:21	But all these things will they do unto you for my name's sake, because they know not him that sent me.
+John 15:22	If I had not come and spoken unto them, they had not had sin: but now they have no cloak for their sin.
+John 15:23	He that hateth me hateth my Father also.
+John 15:24	If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.
+John 15:25	But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.
+John 15:26	But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:
+John 15:27	And ye also shall bear witness, because ye have been with me from the beginning.
+
+>John
+>Index
+>End
+
+===John 16
+John 16:1	These things have I spoken unto you, that ye should not be offended.
+John 16:2	They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
+John 16:3	And these things will they do unto you, because they have not known the Father, nor me.
+John 16:4	But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.
+John 16:5	But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?
+John 16:6	But because I have said these things unto you, sorrow hath filled your heart.
+John 16:7	Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.
+John 16:8	And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:
+John 16:9	Of sin, because they believe not on me;
+John 16:10	Of righteousness, because I go to my Father, and ye see me no more;
+John 16:11	Of judgment, because the prince of this world is judged.
+John 16:12	I have yet many things to say unto you, but ye cannot bear them now.
+John 16:13	Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.
+John 16:14	He shall glorify me: for he shall receive of mine, and shall shew it unto you.
+John 16:15	All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.
+John 16:16	A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.
+John 16:17	Then said some of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?
+John 16:18	They said therefore, What is this that he saith, A little while? we cannot tell what he saith.
+John 16:19	Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?
+John 16:20	Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.
+John 16:21	A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.
+John 16:22	And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.
+John 16:23	And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.
+John 16:24	Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.
+John 16:25	These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.
+John 16:26	At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:
+John 16:27	For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.
+John 16:28	I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.
+John 16:29	His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.
+John 16:30	Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.
+John 16:31	Jesus answered them, Do ye now believe?
+John 16:32	Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me.
+John 16:33	These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.
+
+>John
+>Index
+>End
+
+===John 17
+John 17:1	These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
+John 17:2	As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
+John 17:3	And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
+John 17:4	I have glorified thee on the earth: I have finished the work which thou gavest me to do.
+John 17:5	And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
+John 17:6	I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.
+John 17:7	Now they have known that all things whatsoever thou hast given me are of thee.
+John 17:8	For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me.
+John 17:9	I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.
+John 17:10	And all mine are thine, and thine are mine; and I am glorified in them.
+John 17:11	And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are.
+John 17:12	While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
+John 17:13	And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.
+John 17:14	I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.
+John 17:15	I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.
+John 17:16	They are not of the world, even as I am not of the world.
+John 17:17	Sanctify them through thy truth: thy word is truth.
+John 17:18	As thou hast sent me into the world, even so have I also sent them into the world.
+John 17:19	And for their sakes I sanctify myself, that they also might be sanctified through the truth.
+John 17:20	Neither pray I for these alone, but for them also which shall believe on me through their word;
+John 17:21	That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
+John 17:22	And the glory which thou gavest me I have given them; that they may be one, even as we are one:
+John 17:23	I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
+John 17:24	Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.
+John 17:25	O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.
+John 17:26	And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them.
+
+>John
+>Index
+>End
+
+===John 18
+John 18:1	When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
+John 18:2	And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.
+John 18:3	Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.
+John 18:4	Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?
+John 18:5	They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them.
+John 18:6	As soon then as he had said unto them, I am he, they went backward, and fell to the ground.
+John 18:7	Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.
+John 18:8	Jesus answered, I have told you that I am he: if therefore ye seek me, let these go their way:
+John 18:9	That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.
+John 18:10	Then Simon Peter having a sword drew it, and smote the high priest's servant, and cut off his right ear. The servant's name was Malchus.
+John 18:11	Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?
+John 18:12	Then the band and the captain and officers of the Jews took Jesus, and bound him,
+John 18:13	And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.
+John 18:14	Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.
+John 18:15	And Simon Peter followed Jesus, and so did another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.
+John 18:16	But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.
+John 18:17	Then saith the damsel that kept the door unto Peter, Art not thou also one of this man's disciples? He saith, I am not.
+John 18:18	And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.
+John 18:19	The high priest then asked Jesus of his disciples, and of his doctrine.
+John 18:20	Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.
+John 18:21	Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.
+John 18:22	And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?
+John 18:23	Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?
+John 18:24	Now Annas had sent him bound unto Caiaphas the high priest.
+John 18:25	And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.
+John 18:26	One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?
+John 18:27	Peter then denied again: and immediately the cock crew.
+John 18:28	Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.
+John 18:29	Pilate then went out unto them, and said, What accusation bring ye against this man?
+John 18:30	They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.
+John 18:31	Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:
+John 18:32	That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.
+John 18:33	Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?
+John 18:34	Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?
+John 18:35	Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?
+John 18:36	Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.
+John 18:37	Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
+John 18:38	Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.
+John 18:39	But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?
+John 18:40	Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.
+
+>John
+>Index
+>End
+
+===John 19
+John 19:1	Then Pilate therefore took Jesus, and scourged him.
+John 19:2	And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,
+John 19:3	And said, Hail, King of the Jews! and they smote him with their hands.
+John 19:4	Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.
+John 19:5	Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!
+John 19:6	When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him.
+John 19:7	The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.
+John 19:8	When Pilate therefore heard that saying, he was the more afraid;
+John 19:9	And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.
+John 19:10	Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?
+John 19:11	Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.
+John 19:12	And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar's friend: whosoever maketh himself a king speaketh against Caesar.
+John 19:13	When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
+John 19:14	And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!
+John 19:15	But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar.
+John 19:16	Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away.
+John 19:17	And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:
+John 19:18	Where they crucified him, and two other with him, on either side one, and Jesus in the midst.
+John 19:19	And Pilate wrote a title, and put it on the cross. And the writing was JESUS OF NAZARETH THE KING OF THE JEWS.
+John 19:20	This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, and Greek, and Latin.
+John 19:21	Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.
+John 19:22	Pilate answered, What I have written I have written.
+John 19:23	Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.
+John 19:24	They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.
+John 19:25	Now there stood by the cross of Jesus his mother, and his mother's sister, Mary the wife of Cleophas, and Mary Magdalene.
+John 19:26	When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!
+John 19:27	Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.
+John 19:28	After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.
+John 19:29	Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.
+John 19:30	When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.
+John 19:31	The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and that they might be taken away.
+John 19:32	Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.
+John 19:33	But when they came to Jesus, and saw that he was dead already, they brake not his legs:
+John 19:34	But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.
+John 19:35	And he that saw it bare record, and his record is true: and he knoweth that he saith true, that ye might believe.
+John 19:36	For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.
+John 19:37	And again another scripture saith, They shall look on him whom they pierced.
+John 19:38	And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.
+John 19:39	And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight.
+John 19:40	Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.
+John 19:41	Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.
+John 19:42	There laid they Jesus therefore because of the Jews' preparation day; for the sepulchre was nigh at hand.
+
+>John
+>Index
+>End
+
+===John 20
+John 20:1	The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.
+John 20:2	Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the LORD out of the sepulchre, and we know not where they have laid him.
+John 20:3	Peter therefore went forth, and that other disciple, and came to the sepulchre.
+John 20:4	So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.
+John 20:5	And he stooping down, and looking in, saw the linen clothes lying; yet went he not in.
+John 20:6	Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,
+John 20:7	And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.
+John 20:8	Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.
+John 20:9	For as yet they knew not the scripture, that he must rise again from the dead.
+John 20:10	Then the disciples went away again unto their own home.
+John 20:11	But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre,
+John 20:12	And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.
+John 20:13	And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my LORD, and I know not where they have laid him.
+John 20:14	And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.
+John 20:15	Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.
+John 20:16	Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.
+John 20:17	Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.
+John 20:18	Mary Magdalene came and told the disciples that she had seen the LORD, and that he had spoken these things unto her.
+John 20:19	Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.
+John 20:20	And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the LORD.
+John 20:21	Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you.
+John 20:22	And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:
+John 20:23	Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
+John 20:24	But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.
+John 20:25	The other disciples therefore said unto him, We have seen the LORD. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.
+John 20:26	And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you.
+John 20:27	Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing.
+John 20:28	And Thomas answered and said unto him, My LORD and my God.
+John 20:29	Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed.
+John 20:30	And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:
+John 20:31	But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.
+
+>John
+>Index
+>End
+
+===John 21
+John 21:1	After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.
+John 21:2	There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples.
+John 21:3	Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing.
+John 21:4	But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.
+John 21:5	Then Jesus saith unto them, Children, have ye any meat? They answered him, No.
+John 21:6	And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes.
+John 21:7	Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt his fisher's coat unto him, (for he was naked,) and did cast himself into the sea.
+John 21:8	And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes.
+John 21:9	As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread.
+John 21:10	Jesus saith unto them, Bring of the fish which ye have now caught.
+John 21:11	Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken.
+John 21:12	Jesus saith unto them, Come and dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord.
+John 21:13	Jesus then cometh, and taketh bread, and giveth them, and fish likewise.
+John 21:14	This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead.
+John 21:15	So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
+John 21:16	He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
+John 21:17	He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
+John 21:18	Verily, verily, I say unto thee, When thou wast young, thou girdest thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
+John 21:19	This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
+John 21:20	Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?
+John 21:21	Peter seeing him saith to Jesus, Lord, and what shall this man do?
+John 21:22	Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me.
+John 21:23	Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?
+John 21:24	This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.
+John 21:25	And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
+
+>John
+>Index
+>End
+
+
+===1 John 1
+1 John 1:1	That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
+1 John 1:2	(For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)
+1 John 1:3	That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
+1 John 1:4	And these things write we unto you, that your joy may be full.
+1 John 1:5	This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
+1 John 1:6	If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:
+1 John 1:7	But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
+1 John 1:8	If we say that we have no sin, we deceive ourselves, and the truth is not in us.
+1 John 1:9	If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.
+1 John 1:10	If we say that we have not sinned, we make him a liar, and his word is not in us.
+
+>1 John
+>Index
+>End
+
+===1 John 2
+1 John 2:1	My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
+1 John 2:2	And he is the propitiation for our sins: and not for our's only, but also for the sins of the whole world.
+1 John 2:3	And hereby we do know that we know him, if we keep his commandments.
+1 John 2:4	He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.
+1 John 2:5	But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.
+1 John 2:6	He that saith he abideth in him ought himself also so to walk, even as he walked.
+1 John 2:7	Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.
+1 John 2:8	Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.
+1 John 2:9	He that saith he is in the light, and hateth his brother, is in darkness even until now.
+1 John 2:10	He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.
+1 John 2:11	But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.
+1 John 2:12	I write unto you, little children, because your sins are forgiven you for his name's sake.
+1 John 2:13	I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.
+1 John 2:14	I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.
+1 John 2:15	Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.
+1 John 2:16	For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
+1 John 2:17	And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.
+1 John 2:18	Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
+1 John 2:19	They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
+1 John 2:20	But ye have an unction from the Holy One, and ye know all things.
+1 John 2:21	I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.
+1 John 2:22	Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.
+1 John 2:23	Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also.
+1 John 2:24	Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.
+1 John 2:25	And this is the promise that he hath promised us, even eternal life.
+1 John 2:26	These things have I written unto you concerning them that seduce you.
+1 John 2:27	But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.
+1 John 2:28	And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.
+1 John 2:29	If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.
+
+>1 John
+>Index
+>End
+
+===1 John 3
+1 John 3:1	Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
+1 John 3:2	Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
+1 John 3:3	And every man that hath this hope in him purifieth himself, even as he is pure.
+1 John 3:4	Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.
+1 John 3:5	And ye know that he was manifested to take away our sins; and in him is no sin.
+1 John 3:6	Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.
+1 John 3:7	Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.
+1 John 3:8	He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
+1 John 3:9	Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.
+1 John 3:10	In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
+1 John 3:11	For this is the message that ye heard from the beginning, that we should love one another.
+1 John 3:12	Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.
+1 John 3:13	Marvel not, my brethren, if the world hate you.
+1 John 3:14	We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.
+1 John 3:15	Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.
+1 John 3:16	Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.
+1 John 3:17	But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?
+1 John 3:18	My little children, let us not love in word, neither in tongue; but in deed and in truth.
+1 John 3:19	And hereby we know that we are of the truth, and shall assure our hearts before him.
+1 John 3:20	For if our heart condemn us, God is greater than our heart, and knoweth all things.
+1 John 3:21	Beloved, if our heart condemn us not, then have we confidence toward God.
+1 John 3:22	And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.
+1 John 3:23	And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.
+1 John 3:24	And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.
+
+>1 John
+>Index
+>End
+
+
+===1 John 4
+1 John 4:1	Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
+1 John 4:2	Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
+1 John 4:3	And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
+1 John 4:4	Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
+1 John 4:5	They are of the world: therefore speak they of the world, and the world heareth them.
+1 John 4:6	We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.
+1 John 4:7	Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.
+1 John 4:8	He that loveth not knoweth not God; for God is love.
+1 John 4:9	In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.
+1 John 4:10	Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.
+1 John 4:11	Beloved, if God so loved us, we ought also to love one another.
+1 John 4:12	No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
+1 John 4:13	Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.
+1 John 4:14	And we have seen and do testify that the Father sent the Son to be the Saviour of the world.
+1 John 4:15	Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.
+1 John 4:16	And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.
+1 John 4:17	Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.
+1 John 4:18	There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.
+1 John 4:19	We love him, because he first loved us.
+1 John 4:20	If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?
+1 John 4:21	And this commandment have we from him, That he who loveth God love his brother also.
+
+>1 John
+>Index
+>End
+
+
+===1 John 5
+1 John 5:1	Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.
+1 John 5:2	By this we know that we love the children of God, when we love God, and keep his commandments.
+1 John 5:3	For this is the love of God, that we keep his commandments: and his commandments are not grievous.
+1 John 5:4	For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
+1 John 5:5	Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?
+1 John 5:6	This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.
+1 John 5:7	For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
+1 John 5:8	And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.
+1 John 5:9	If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.
+1 John 5:10	He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.
+1 John 5:11	And this is the record, that God hath given to us eternal life, and this life is in his Son.
+1 John 5:12	He that hath the Son hath life; and he that hath not the Son of God hath not life.
+1 John 5:13	These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
+1 John 5:14	And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:
+1 John 5:15	And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.
+1 John 5:16	If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it.
+1 John 5:17	All unrighteousness is sin: and there is a sin not unto death.
+1 John 5:18	We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.
+1 John 5:19	And we know that we are of God, and the whole world lieth in wickedness.
+1 John 5:20	And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
+1 John 5:21	Little children, keep yourselves from idols. Amen.
+
+>1 John
+>Index
+>End
+
+===2 John 1
+2 John 1:1	The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
+2 John 1:2	For the truth's sake, which dwelleth in us, and shall be with us for ever.
+2 John 1:3	Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
+2 John 1:4	I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.
+2 John 1:5	And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.
+2 John 1:6	And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.
+2 John 1:7	For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
+2 John 1:8	Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
+2 John 1:9	Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.
+2 John 1:10	If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:
+2 John 1:11	For he that biddeth him God speed is partaker of his evil deeds.
+2 John 1:12	Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.
+2 John 1:13	The children of thy elect sister greet thee. Amen.
+
+>Index
+>End
+
+===3 John 1
+3 John 1:1	The elder unto the wellbeloved Gaius, whom I love in the truth.
+3 John 1:2	Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.
+3 John 1:3	For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth.
+3 John 1:4	I have no greater joy than to hear that my children walk in truth.
+3 John 1:5	Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;
+3 John 1:6	Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:
+3 John 1:7	Because that for his name's sake they went forth, taking nothing of the Gentiles.
+3 John 1:8	We therefore ought to receive such, that we might be fellowhelpers to the truth.
+3 John 1:9	I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
+3 John 1:10	Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.
+3 John 1:11	Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.
+3 John 1:12	Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.
+3 John 1:13	I had many things to write, but I will not with ink and pen write unto thee:
+3 John 1:14	But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name.
+
+>Index
+>End
+
+
+===Revelation 1
+Revelation 1:1	The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
+Revelation 1:2	Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
+Revelation 1:3	Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
+Revelation 1:4	John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
+Revelation 1:5	And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
+Revelation 1:6	And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.
+Revelation 1:7	Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
+Revelation 1:8	I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
+Revelation 1:9	I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
+Revelation 1:10	I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,
+Revelation 1:11	Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
+Revelation 1:12	And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;
+Revelation 1:13	And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.
+Revelation 1:14	His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
+Revelation 1:15	And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
+Revelation 1:16	And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance was as the sun shineth in his strength.
+Revelation 1:17	And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
+Revelation 1:18	I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
+Revelation 1:19	Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;
+Revelation 1:20	The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
+
+>Revelation
+>Index
+>End
+
+===Revelation 2
+Revelation 2:1	Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
+Revelation 2:2	I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:
+Revelation 2:3	And hast borne, and hast patience, and for my name's sake hast laboured, and hast not fainted.
+Revelation 2:4	Nevertheless I have somewhat against thee, because thou hast left thy first love.
+Revelation 2:5	Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
+Revelation 2:6	But this thou hast, that thou hatest the deeds of the Nicolaitanes, which I also hate.
+Revelation 2:7	He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
+Revelation 2:8	And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;
+Revelation 2:9	I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
+Revelation 2:10	Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
+Revelation 2:11	He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.
+Revelation 2:12	And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;
+Revelation 2:13	I know thy works, and where thou dwellest, even where Satan's seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth.
+Revelation 2:14	But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.
+Revelation 2:15	So hast thou also them that hold the doctrine of the Nicolaitanes, which thing I hate.
+Revelation 2:16	Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.
+Revelation 2:17	He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.
+Revelation 2:18	And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;
+Revelation 2:19	I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first.
+Revelation 2:20	Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
+Revelation 2:21	And I gave her space to repent of her fornication; and she repented not.
+Revelation 2:22	Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.
+Revelation 2:23	And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.
+Revelation 2:24	But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.
+Revelation 2:25	But that which ye have already hold fast till I come.
+Revelation 2:26	And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
+Revelation 2:27	And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
+Revelation 2:28	And I will give him the morning star.
+Revelation 2:29	He that hath an ear, let him hear what the Spirit saith unto the churches.
+
+>Revelation
+>Index
+>End
+
+===Revelation 3
+Revelation 3:1	And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
+Revelation 3:2	Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
+Revelation 3:3	Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
+Revelation 3:4	Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.
+Revelation 3:5	He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.
+Revelation 3:6	He that hath an ear, let him hear what the Spirit saith unto the churches.
+Revelation 3:7	And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
+Revelation 3:8	I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.
+Revelation 3:9	Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
+Revelation 3:10	Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
+Revelation 3:11	Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
+Revelation 3:12	Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
+Revelation 3:13	He that hath an ear, let him hear what the Spirit saith unto the churches.
+Revelation 3:14	And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;
+Revelation 3:15	I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.
+Revelation 3:16	So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.
+Revelation 3:17	Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:
+Revelation 3:18	I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
+Revelation 3:19	As many as I love, I rebuke and chasten: be zealous therefore, and repent.
+Revelation 3:20	Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
+Revelation 3:21	To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
+Revelation 3:22	He that hath an ear, let him hear what the Spirit saith unto the churches.
+
+>Revelation
+>Index
+>End
+
+===Revelation 4
+Revelation 4:1	After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
+Revelation 4:2	And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.
+Revelation 4:3	And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.
+Revelation 4:4	And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
+Revelation 4:5	And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God.
+Revelation 4:6	And before the throne there was a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.
+Revelation 4:7	And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.
+Revelation 4:8	And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, LORD God Almighty, which was, and is, and is to come.
+Revelation 4:9	And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,
+Revelation 4:10	The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,
+Revelation 4:11	Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.
+
+>Revelation
+>Index
+>End
+
+===Revelation 5
+Revelation 5:1	And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
+Revelation 5:2	And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?
+Revelation 5:3	And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.
+Revelation 5:4	And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.
+Revelation 5:5	And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
+Revelation 5:6	And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
+Revelation 5:7	And he came and took the book out of the right hand of him that sat upon the throne.
+Revelation 5:8	And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.
+Revelation 5:9	And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;
+Revelation 5:10	And hast made us unto our God kings and priests: and we shall reign on the earth.
+Revelation 5:11	And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
+Revelation 5:12	Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
+Revelation 5:13	And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever.
+Revelation 5:14	And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.
+
+>Revelation
+>Index
+>End
+
+===Revelation 6
+Revelation 6:1	And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
+Revelation 6:2	And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.
+Revelation 6:3	And when he had opened the second seal, I heard the second beast say, Come and see.
+Revelation 6:4	And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword.
+Revelation 6:5	And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.
+Revelation 6:6	And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine.
+Revelation 6:7	And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
+Revelation 6:8	And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
+Revelation 6:9	And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
+Revelation 6:10	And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
+Revelation 6:11	And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.
+Revelation 6:12	And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
+Revelation 6:13	And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
+Revelation 6:14	And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
+Revelation 6:15	And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
+Revelation 6:16	And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:
+Revelation 6:17	For the great day of his wrath is come; and who shall be able to stand?
+
+>Revelation
+>Index
+>End
+
+===Revelation 7
+Revelation 7:1	And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
+Revelation 7:2	And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,
+Revelation 7:3	Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads.
+Revelation 7:4	And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.
+Revelation 7:5	Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand.
+Revelation 7:6	Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nephthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand.
+Revelation 7:7	Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand.
+Revelation 7:8	Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
+Revelation 7:9	After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
+Revelation 7:10	And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
+Revelation 7:11	And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,
+Revelation 7:12	Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen.
+Revelation 7:13	And one of the elders answered, saying unto me, What are these which are arrayed in white robes? and whence came they?
+Revelation 7:14	And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
+Revelation 7:15	Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.
+Revelation 7:16	They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
+Revelation 7:17	For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
+
+>Revelation
+>Index
+>End
+
+===Revelation 8
+Revelation 8:1	And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
+Revelation 8:2	And I saw the seven angels which stood before God; and to them were given seven trumpets.
+Revelation 8:3	And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer it with the prayers of all saints upon the golden altar which was before the throne.
+Revelation 8:4	And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel's hand.
+Revelation 8:5	And the angel took the censer, and filled it with fire of the altar, and cast it into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.
+Revelation 8:6	And the seven angels which had the seven trumpets prepared themselves to sound.
+Revelation 8:7	The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up.
+Revelation 8:8	And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;
+Revelation 8:9	And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.
+Revelation 8:10	And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;
+Revelation 8:11	And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.
+Revelation 8:12	And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.
+Revelation 8:13	And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!
+
+>Revelation
+>Index
+>End
+
+===Revelation 9
+Revelation 9:1	And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.
+Revelation 9:2	And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit.
+Revelation 9:3	And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power.
+Revelation 9:4	And it was commanded them that they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men which have not the seal of God in their foreheads.
+Revelation 9:5	And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he striketh a man.
+Revelation 9:6	And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.
+Revelation 9:7	And the shapes of the locusts were like unto horses prepared unto battle; and on their heads were as it were crowns like gold, and their faces were as the faces of men.
+Revelation 9:8	And they had hair as the hair of women, and their teeth were as the teeth of lions.
+Revelation 9:9	And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to battle.
+Revelation 9:10	And they had tails like unto scorpions, and there were stings in their tails: and their power was to hurt men five months.
+Revelation 9:11	And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon.
+Revelation 9:12	One woe is past; and, behold, there come two woes more hereafter.
+Revelation 9:13	And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,
+Revelation 9:14	Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.
+Revelation 9:15	And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to slay the third part of men.
+Revelation 9:16	And the number of the army of the horsemen were two hundred thousand thousand: and I heard the number of them.
+Revelation 9:17	And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses were as the heads of lions; and out of their mouths issued fire and smoke and brimstone.
+Revelation 9:18	By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths.
+Revelation 9:19	For their power is in their mouth, and in their tails: for their tails were like unto serpents, and had heads, and with them they do hurt.
+Revelation 9:20	And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
+Revelation 9:21	Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
+
+>Revelation
+>Index
+>End
+
+===Revelation 10
+Revelation 10:1	And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:
+Revelation 10:2	And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,
+Revelation 10:3	And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices.
+Revelation 10:4	And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.
+Revelation 10:5	And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,
+Revelation 10:6	And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:
+Revelation 10:7	But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.
+Revelation 10:8	And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.
+Revelation 10:9	And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.
+Revelation 10:10	And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
+Revelation 10:11	And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.
+
+>Revelation
+>Index
+>End
+
+===Revelation 11
+Revelation 11:1	And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
+Revelation 11:2	But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months.
+Revelation 11:3	And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth.
+Revelation 11:4	These are the two olive trees, and the two candlesticks standing before the God of the earth.
+Revelation 11:5	And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies: and if any man will hurt them, he must in this manner be killed.
+Revelation 11:6	These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will.
+Revelation 11:7	And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
+Revelation 11:8	And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
+Revelation 11:9	And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves.
+Revelation 11:10	And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth.
+Revelation 11:11	And after three days and an half the spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
+Revelation 11:12	And they heard a great voice from heaven saying unto them, Come up hither. And they ascended up to heaven in a cloud; and their enemies beheld them.
+Revelation 11:13	And the same hour was there a great earthquake, and the tenth part of the city fell, and in the earthquake were slain of men seven thousand: and the remnant were affrighted, and gave glory to the God of heaven.
+Revelation 11:14	The second woe is past; and, behold, the third woe cometh quickly.
+Revelation 11:15	And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever.
+Revelation 11:16	And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,
+Revelation 11:17	Saying, We give thee thanks, O LORD God Almighty, which art, and wast, and art to come; because thou hast taken to thee thy great power, and hast reigned.
+Revelation 11:18	And the nations were angry, and thy wrath is come, and the time of the dead, that they should be judged, and that thou shouldest give reward unto thy servants the prophets, and to the saints, and them that fear thy name, small and great; and shouldest destroy them which destroy the earth.
+Revelation 11:19	And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.
+
+>Revelation
+>Index
+>End
+
+===Revelation 12
+Revelation 12:1	And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
+Revelation 12:2	And she being with child cried, travailing in birth, and pained to be delivered.
+Revelation 12:3	And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
+Revelation 12:4	And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
+Revelation 12:5	And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne.
+Revelation 12:6	And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred and threescore days.
+Revelation 12:7	And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
+Revelation 12:8	And prevailed not; neither was their place found any more in heaven.
+Revelation 12:9	And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
+Revelation 12:10	And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
+Revelation 12:11	And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.
+Revelation 12:12	Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
+Revelation 12:13	And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child.
+Revelation 12:14	And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
+Revelation 12:15	And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
+Revelation 12:16	And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
+Revelation 12:17	And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
+
+>Revelation
+>Index
+>End
+
+===Revelation 13
+Revelation 13:1	And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
+Revelation 13:2	And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
+Revelation 13:3	And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
+Revelation 13:4	And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
+Revelation 13:5	And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
+Revelation 13:6	And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
+Revelation 13:7	And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
+Revelation 13:8	And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
+Revelation 13:9	If any man have an ear, let him hear.
+Revelation 13:10	He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
+Revelation 13:11	And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
+Revelation 13:12	And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
+Revelation 13:13	And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
+Revelation 13:14	And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
+Revelation 13:15	And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
+Revelation 13:16	And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
+Revelation 13:17	And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
+Revelation 13:18	Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.
+
+>Revelation
+>Index
+>End
+
+===Revelation 14
+Revelation 14:1	And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads.
+Revelation 14:2	And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
+Revelation 14:3	And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred and forty and four thousand, which were redeemed from the earth.
+Revelation 14:4	These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb.
+Revelation 14:5	And in their mouth was found no guile: for they are without fault before the throne of God.
+Revelation 14:6	And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,
+Revelation 14:7	Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
+Revelation 14:8	And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
+Revelation 14:9	And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand,
+Revelation 14:10	The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
+Revelation 14:11	And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
+Revelation 14:12	Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
+Revelation 14:13	And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.
+Revelation 14:14	And I looked, and behold a white cloud, and upon the cloud one sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
+Revelation 14:15	And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe.
+Revelation 14:16	And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.
+Revelation 14:17	And another angel came out of the temple which is in heaven, he also having a sharp sickle.
+Revelation 14:18	And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe.
+Revelation 14:19	And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God.
+Revelation 14:20	And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs.
+
+>Revelation
+>Index
+>End
+
+===Revelation 15
+Revelation 15:1	And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.
+Revelation 15:2	And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, and over the number of his name, stand on the sea of glass, having the harps of God.
+Revelation 15:3	And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.
+Revelation 15:4	Who shall not fear thee, O Lord, and glorify thy name? for thou only art holy: for all nations shall come and worship before thee; for thy judgments are made manifest.
+Revelation 15:5	And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:
+Revelation 15:6	And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.
+Revelation 15:7	And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever.
+Revelation 15:8	And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.
+
+>Revelation
+>Index
+>End
+
+===Revelation 16
+Revelation 16:1	And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
+Revelation 16:2	And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image.
+Revelation 16:3	And the second angel poured out his vial upon the sea; and it became as the blood of a dead man: and every living soul died in the sea.
+Revelation 16:4	And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.
+Revelation 16:5	And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.
+Revelation 16:6	For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.
+Revelation 16:7	And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments.
+Revelation 16:8	And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire.
+Revelation 16:9	And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory.
+Revelation 16:10	And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
+Revelation 16:11	And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.
+Revelation 16:12	And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
+Revelation 16:13	And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
+Revelation 16:14	For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
+Revelation 16:15	Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.
+Revelation 16:16	And he gathered them together into a place called in the Hebrew tongue Armageddon.
+Revelation 16:17	And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.
+Revelation 16:18	And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great.
+Revelation 16:19	And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath.
+Revelation 16:20	And every island fled away, and the mountains were not found.
+Revelation 16:21	And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.
+
+>Revelation
+>Index
+>End
+
+===Revelation 17
+Revelation 17:1	And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
+Revelation 17:2	With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
+Revelation 17:3	So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
+Revelation 17:4	And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
+Revelation 17:5	And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
+Revelation 17:6	And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
+Revelation 17:7	And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
+Revelation 17:8	The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
+Revelation 17:9	And here is the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth.
+Revelation 17:10	And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he cometh, he must continue a short space.
+Revelation 17:11	And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
+Revelation 17:12	And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
+Revelation 17:13	These have one mind, and shall give their power and strength unto the beast.
+Revelation 17:14	These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
+Revelation 17:15	And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.
+Revelation 17:16	And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
+Revelation 17:17	For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
+Revelation 17:18	And the woman which thou sawest is that great city, which reigneth over the kings of the earth.
+
+>Revelation
+>Index
+>End
+
+===Revelation 18
+Revelation 18:1	And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.
+Revelation 18:2	And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird.
+Revelation 18:3	For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies.
+Revelation 18:4	And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
+Revelation 18:5	For her sins have reached unto heaven, and God hath remembered her iniquities.
+Revelation 18:6	Reward her even as she rewarded you, and double unto her double according to her works: in the cup which she hath filled fill to her double.
+Revelation 18:7	How much she hath glorified herself, and lived deliciously, so much torment and sorrow give her: for she saith in her heart, I sit a queen, and am no widow, and shall see no sorrow.
+Revelation 18:8	Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong is the Lord God who judgeth her.
+Revelation 18:9	And the kings of the earth, who have committed fornication and lived deliciously with her, shall bewail her, and lament for her, when they shall see the smoke of her burning,
+Revelation 18:10	Standing afar off for the fear of her torment, saying, Alas, alas that great city Babylon, that mighty city! for in one hour is thy judgment come.
+Revelation 18:11	And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:
+Revelation 18:12	The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,
+Revelation 18:13	And cinnamon, and odours, and ointments, and frankincense, and wine, and oil, and fine flour, and wheat, and beasts, and sheep, and horses, and chariots, and slaves, and souls of men.
+Revelation 18:14	And the fruits that thy soul lusted after are departed from thee, and all things which were dainty and goodly are departed from thee, and thou shalt find them no more at all.
+Revelation 18:15	The merchants of these things, which were made rich by her, shall stand afar off for the fear of her torment, weeping and wailing,
+Revelation 18:16	And saying, Alas, alas that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!
+Revelation 18:17	For in one hour so great riches is come to nought. And every shipmaster, and all the company in ships, and sailors, and as many as trade by sea, stood afar off,
+Revelation 18:18	And cried when they saw the smoke of her burning, saying, What city is like unto this great city!
+Revelation 18:19	And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate.
+Revelation 18:20	Rejoice over her, thou heaven, and ye holy apostles and prophets; for God hath avenged you on her.
+Revelation 18:21	And a mighty angel took up a stone like a great millstone, and cast it into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all.
+Revelation 18:22	And the voice of harpers, and musicians, and of pipers, and trumpeters, shall be heard no more at all in thee; and no craftsman, of whatsoever craft he be, shall be found any more in thee; and the sound of a millstone shall be heard no more at all in thee;
+Revelation 18:23	And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.
+Revelation 18:24	And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth.
+
+>Revelation
+>Index
+>End
+
+===Revelation 19
+Revelation 19:1	And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
+Revelation 19:2	For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand.
+Revelation 19:3	And again they said, Alleluia And her smoke rose up for ever and ever.
+Revelation 19:4	And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.
+Revelation 19:5	And a voice came out of the throne, saying, Praise our God, all ye his servants, and ye that fear him, both small and great.
+Revelation 19:6	And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.
+Revelation 19:7	Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready.
+Revelation 19:8	And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.
+Revelation 19:9	And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
+Revelation 19:10	And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
+Revelation 19:11	And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
+Revelation 19:12	His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
+Revelation 19:13	And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
+Revelation 19:14	And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.
+Revelation 19:15	And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
+Revelation 19:16	And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
+Revelation 19:17	And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;
+Revelation 19:18	That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great.
+Revelation 19:19	And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
+Revelation 19:20	And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
+Revelation 19:21	And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh.
+
+>Revelation
+>Index
+>End
+
+===Revelation 20
+Revelation 20:1	And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
+Revelation 20:2	And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,
+Revelation 20:3	And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.
+Revelation 20:4	And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
+Revelation 20:5	But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection.
+Revelation 20:6	Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
+Revelation 20:7	And when the thousand years are expired, Satan shall be loosed out of his prison,
+Revelation 20:8	And shall go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle: the number of whom is as the sand of the sea.
+Revelation 20:9	And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
+Revelation 20:10	And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.
+Revelation 20:11	And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
+Revelation 20:12	And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
+Revelation 20:13	And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
+Revelation 20:14	And death and hell were cast into the lake of fire. This is the second death.
+Revelation 20:15	And whosoever was not found written in the book of life was cast into the lake of fire.
+
+>Revelation
+>Index
+>End
+
+===Revelation 21
+Revelation 21:1	And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
+Revelation 21:2	And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
+Revelation 21:3	And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God.
+Revelation 21:4	And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
+Revelation 21:5	And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.
+Revelation 21:6	And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.
+Revelation 21:7	He that overcometh shall inherit all things; and I will be his God, and he shall be my son.
+Revelation 21:8	But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
+Revelation 21:9	And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife.
+Revelation 21:10	And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,
+Revelation 21:11	Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;
+Revelation 21:12	And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:
+Revelation 21:13	On the east three gates; on the north three gates; on the south three gates; and on the west three gates.
+Revelation 21:14	And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
+Revelation 21:15	And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
+Revelation 21:16	And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.
+Revelation 21:17	And he measured the wall thereof, an hundred and forty and four cubits, according to the measure of a man, that is, of the angel.
+Revelation 21:18	And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass.
+Revelation 21:19	And the foundations of the wall of the city were garnished with all manner of precious stones. The first foundation was jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;
+Revelation 21:20	The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
+Revelation 21:21	And the twelve gates were twelve pearls: every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.
+Revelation 21:22	And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
+Revelation 21:23	And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof.
+Revelation 21:24	And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
+Revelation 21:25	And the gates of it shall not be shut at all by day: for there shall be no night there.
+Revelation 21:26	And they shall bring the glory and honour of the nations into it.
+Revelation 21:27	And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb's book of life.
+
+>Revelation
+>Index
+>End
+
+===Revelation 22
+Revelation 22:1	And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
+Revelation 22:2	In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations.
+Revelation 22:3	And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:
+Revelation 22:4	And they shall see his face; and his name shall be in their foreheads.
+Revelation 22:5	And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
+Revelation 22:6	And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.
+Revelation 22:7	Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.
+Revelation 22:8	And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
+Revelation 22:9	Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
+Revelation 22:10	And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.
+Revelation 22:11	He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
+Revelation 22:12	And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.
+Revelation 22:13	I am Alpha and Omega, the beginning and the end, the first and the last.
+Revelation 22:14	Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
+Revelation 22:15	For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.
+Revelation 22:16	I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
+Revelation 22:17	And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.
+Revelation 22:18	For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:
+Revelation 22:19	And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
+Revelation 22:20	He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.
+Revelation 22:21	The grace of our Lord Jesus Christ be with you all. Amen.
+
+>Revelation
+>Index
+>End
